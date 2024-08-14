@@ -18,14 +18,17 @@ This project demonstrates the implementation of the Model-View-ViewModel (MVVM) 
 
 ### Clone the Repository
 
-1. Download the zip file
-2. Unzip the file
+```bash
+git clone https://github.com/gangareddy7/sample-mvvm.git
+cd sample-mvvm
+```
+
 
 ### Open the Project
 
 1. Open Android Studio.
 2. Click on `Open an Existing Project`.
-3. Navigate to the project directory and select it.
+3. Navigate to the cloned project directory and select it.
 
 ### Build and Run
 
